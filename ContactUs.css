@@ -5,10 +5,8 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  display: center;
   align-items: center;
   height: 120vh;
-  width: fit-content;
 }
 
 .container{       /* container for the whole content : left&right aligned, brandname, msg */
